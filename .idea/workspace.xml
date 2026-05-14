@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74d4270f-5fb7-442f-bcc3-746d0332b0a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.flake8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/habittracker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/celery_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/habits/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/habits/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tg_bot/bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tg_bot/tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/permissions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="74d4270f-5fb7-442f-bcc3-746d0332b0a3" name="Changes" comment="refactor(Block.ts): update render method" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -51,7 +39,7 @@
     "Python.manage.executor": "Run",
     "Python.settings.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "develop"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -70,6 +58,66 @@
       <option name="presentableId" value="Default" />
       <updated>1778689625487</updated>
     </task>
+    <task id="LOCAL-00001" summary="refactor(Block.ts): update render method">
+      <option name="closed" value="true" />
+      <created>1778780278292</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778780278292</updated>
+    </task>
+    <task id="LOCAL-00002" summary="refactor(Block.ts): update render method">
+      <option name="closed" value="true" />
+      <created>1778780295412</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778780295412</updated>
+    </task>
+    <task id="LOCAL-00003" summary="refactor(Block.ts): update render method">
+      <option name="closed" value="true" />
+      <created>1778780446855</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778780446855</updated>
+    </task>
+    <task id="LOCAL-00004" summary="refactor(Block.ts): update render method">
+      <option name="closed" value="true" />
+      <created>1778780456592</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1778780456592</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactor(Block.ts): update render method" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor(Block.ts): update render method" />
   </component>
 </project>
